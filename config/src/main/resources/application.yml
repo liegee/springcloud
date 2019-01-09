@@ -12,7 +12,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/liegee/springcloud.git #配置git仓库地址
+          uri: https://github.com/liegee/springcloud #配置git仓库地址
           searchPaths: configs #配置仓库路径
           username: 421670692@qq.com #访问git仓库的用户名
           password: 123lyywlu #访问git仓库的用户密码
